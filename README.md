@@ -1,6 +1,6 @@
 <h1>Hello, I'm Matheus! 👋</h1>
 <p>I'm a Cybersecurity Enthusiast currently studying Computer Science at University of São Paulo (USP) and diving deep into Digital Forensics and Incident Response.</p>
-</header>
+<p>I'm also a member of the cybersecurity university group <a href="https://ganesh.icmc.usp.br">GANESH</a> since 2021.</p>
 <h2>What I'm Learning</h2>
 <p><strong>🎓 Computer Science Student</strong>: Building a solid foundation in algorithms, data structures, software development and testing with a focus on security.</p>
 <p><strong>🔐 Cybersecurity</strong>: Exploring vulnerability management, penetration testing, threat hunting, network security and more.</p>
